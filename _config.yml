@@ -1,0 +1,28 @@
+name: precognitics
+favicon: null
+layout_spectrum: 0.25789504195563495
+typography_spectrum: 0.8601380621548742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.35799427540041506
+  lightness: 0.7323442758060992
+  saturation: 0.014204902574419975
+  rhythmicContrast: 0.05934032937511802
+purpose: []
